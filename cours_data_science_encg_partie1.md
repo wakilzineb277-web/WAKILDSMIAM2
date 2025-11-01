@@ -1,10 +1,10 @@
 # COURS DE SCIENCE DES DONNÉES
 
-# A. Larhlimi
+# Zineb WAKIL
 
 
 
-<img src="image1.jpg" style="height:264px;margin-right:232px"/>
+<img width="1169" height="1201" alt="image" src="https://github.com/user-attachments/assets/51ea01c2-5ccd-42c2-b986-095ef0407b8c" />
 
 
 ## École Nationale de Commerce et de Gestion (ENCG) - 
